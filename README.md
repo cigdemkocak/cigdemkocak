@@ -2,7 +2,7 @@
 <h3 align="center">A Software Developer from Turkey</h3>
 
 
-- 🌱 I’m currently learning **mobile application developing with Java and Kotlin**
+- 🌱 I’m currently learning **mobile application development with Java and Kotlin**
 - 📫 How to reach me **kocakcigdem9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
